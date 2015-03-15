@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 624 314.9" enable-background="new 0 0 624 314.9" xml:space="preserve">
+<g id="lineaH">
+	<g>
+		<line fill="#00FFFF" x1="2" y1="313" x2="623" y2="313"/>
+	</g>
+	<g>
+		<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="2" y1="313" x2="623" y2="313"/>
+	</g>
+</g>
+<g id="lineaV">
+	<line fill="none" stroke="#FFFFFF" stroke-width="4" stroke-miterlimit="10" x1="2" y1="0" x2="2" y2="315"/>
+</g>
+<g id="graph-adobeCSS">
+	<rect x="3" y="1" fill="#3498DB" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="620" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 18.8139)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">Adobe CSS (Ps,AE,Ai)</text>
+</g>
+<g id="graph-htmlCss">
+	<rect x="3" y="32" fill="#C17FD1" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="584" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 50.1472)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">HTML5/CSS3</text>
+</g>
+<g id="graph-javaJS">
+	<rect x="3" y="63" fill="#2ECC71" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="378" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 81.1472)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">JS/JQuery</text>
+</g>
+<g id="graph-edicion">
+	<rect x="3" y="94" fill="#E67E22" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="620" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 112.1472)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">Premiere/FCP</text>
+</g>
+<g id="graph-cplusplus">
+	<rect x="3" y="125" fill="#7F8C8D" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="233" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 142.8331)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">C#/C++</text>
+</g>
+<g id="graph-3D">
+	<rect x="3" y="156" fill="#C0392B" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="396" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 174.1472)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">3D (Maya, 3Ds Max, C4D)</text>
+</g>
+<g id="graph-vue">
+	<rect x="3" y="187" fill="#8E44AD" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="396" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 205.1472)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">Vue xStream</text>
+</g>
+<g id="graph-unity">
+	<rect x="3" y="218" fill="#2980B9" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="352" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 235.9998)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">Unity</text>
+</g>
+<g id="graph-nuke">
+	<rect x="3" y="249" fill="#F39C12" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="233" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 266.9998)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">Nuke</text>
+</g>
+<g id="graph-track">
+	<rect x="3" y="280" fill="#34495E" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" width="415" height="25"/>
+	<text transform="matrix(1 0 0 1 20.5417 298.1472)" fill="#FFFFFF" font-family="'Montserrat-Regular'" font-size="15">Mocha/3DEqualizer</text>
+</g>
+</svg>

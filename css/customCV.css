@@ -1,0 +1,122 @@
+@font-face {
+    font-family: Lato-Black;
+    src: url(../fonts/cv/Lato-Black.ttf);
+}
+
+@font-face {
+    font-family: Lato-Light;
+    src: url(../fonts/cv/Lato-Light.ttf);
+}
+
+@font-face {
+    font-family: Lato-Bold;
+    src: url(../fonts/cv/Lato-Bold.ttf);
+}
+
+@font-face {
+    font-family: Lato-Regular;
+    src: url(../fonts/cv/Lato-Regular.ttf);
+}
+
+head,body,nav,footer,ul,li,div,p{
+	font-family:Lato-Regular;
+	margin:0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	color:black;
+}
+
+div{
+	display: block;
+}
+
+body{
+	background-image:url('../images/bg/old_moon.png');
+}
+
+a{
+	text-decoration: none;
+}
+
+a:visited{
+	text-decoration: none;
+}
+
+.wrapper{
+	background-color: white;
+	border-radius: 10px;
+	margin-top: 70px;
+	padding-top: 0px;
+	
+}
+
+.wrapper h1{
+	font-family: Lato-Black;
+	font-size: 55px;
+	
+}
+
+.wrapper .mailInfo{
+	margin-top: 20px;
+}
+
+.wrapper .basicInfo{
+	border-bottom: 1px solid #ccc;
+	padding-left: 80px;
+	padding-bottom: 30px;
+	
+	padding-top: 5px;
+}
+
+.wrapper .mailInfo p{
+	font-size: 20px;
+	margin: 10px 0 10px 0;
+
+}
+
+.wrapper .content{
+	border-bottom: 1px solid #ccc;
+	padding-left: 50px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.content .label{
+	font-weight: bold;
+	font-size: 19px;
+	width: 120px;
+	float: left;
+	color:black;
+}
+
+.content .labelInfo{
+	float: left;
+}
+
+.Escuela{
+	
+
+}
+
+.Escuela .nomCarr{
+	font-size: 30px;
+	font-family: Lato-Bold;
+	margin-bottom: 10px;
+	line-height: 30px;
+}
+
+.Escuela .nomEsc{
+	font-size: 25px;
+	font-family: Lato-Regular;
+	font-style: italic;
+	color:#555;
+	margin-bottom: 10px;
+	line-height: 30px;
+}
+
+.nomEsc a:hover{
+	text-decoration: none;
+}
+

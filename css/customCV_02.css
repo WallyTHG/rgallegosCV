@@ -1,0 +1,184 @@
+@font-face {
+    font-family: Lato-Black;
+    src: url(../fonts/cv/Lato-Black.ttf);
+}
+
+@font-face {
+    font-family: Lato-Light;
+    src: url(../fonts/cv/Lato-Light.ttf);
+}
+
+@font-face {
+    font-family: Lato-Bold;
+    src: url(../fonts/cv/Lato-Bold.ttf);
+}
+
+@font-face {
+    font-family: Lato-Regular;
+    src: url(../fonts/cv/Lato-Regular.ttf);
+}
+
+body, section, article, nav, footer, header, p{
+	font-family:Lato-Regular;
+	margin:0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	color:black;
+}
+
+body{
+	background:url('../images/bg/old_moon.png') repeat;
+}
+
+hr{
+	color: #999;
+	background-color: #999;
+	height: 1px;
+	opacity: .5;
+}
+
+.infoContainer{
+	margin-top: 60px;
+	margin-bottom: 60px;
+	border-radius: 20px;
+	width: 1000px;
+	background: url('../images/bg/bg_CV02.png')repeat;
+/*	background-color: #fff; 
+	background-image: 
+	linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+	linear-gradient(#eee .1em, transparent .1em);
+	background-size: 100% 1.2em;*/
+	margin-left:auto;
+	margin-right: auto;
+	box-shadow: 00px 00px 50px 2px #999;
+
+}
+
+.firstInfo, .secondInfo{
+	padding-top: 20px;
+	padding-left: 50px;
+	padding-bottom: 30px;
+}
+
+.firstInfo h1{
+	font-family: Lato-Black;
+	font-size: 50px;
+	margin-bottom: 40px;
+}
+
+.firstInfo p{
+	font-size: 20px;
+	margin-top: 10px;
+
+}
+
+.secondInfo p{
+	font-size: 20px;
+	margin-top: 0px;
+}
+
+.secondInfo .firstRow p{
+	font-family: Lato-Bold;
+}
+
+.secondInfo .secondRow{
+	
+/*	background-color: green;*/
+	
+}
+
+.secondRow span{
+	display: inline;
+	float:right;
+	font-size: 20px;
+	opacity: .6;
+}
+
+#btnToggle{
+	cursor: pointer;
+
+}
+
+#puesto{
+	margin-top: 0;
+	font-family: Lato-Regular;
+	font-style: italic;
+	font-size: 25px;
+	text-decoration: none;
+	color:#25a7ac;
+}
+
+.secondInfo .secondRow h2{
+	
+	margin-top: 0;
+	font-family: Lato-Bold;
+
+}
+
+.secondInfo .secondRow a{
+	
+	margin-top: 0;
+	font-family: Lato-Regular;
+	font-style: italic;
+	font-size: 25px;
+	text-decoration: none;
+	color:#25a7ac;
+	
+
+}
+
+.secondInfo .secondRow a:hover{
+	
+	
+	color:#85a7ac;
+
+}
+
+.secondInfo .secondRow .detalles{
+	/*
+	margin-left: 25px;
+	margin-top:20px;*/
+
+}
+
+.secondInfo .secondRow p{
+	
+	
+	margin-top: 10px;
+	font-family: Lato-Regular;
+
+}
+.secondInfo .habilidades {
+	display: inline;
+}
+
+.secondInfo .habilidades p{
+	font-size: 15px;
+	font-family: Lato-Bold;
+	margin-top: 5px;
+}
+
+
+.circle{
+	margin-top: 5px;
+	background-color: #ddd;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	display: inline;
+	float: right;
+	margin-left: 20px;
+}
+
+.circleFull{
+	margin-top: 5px;
+	background-color: #444;
+	border-radius: 50%;
+	width: 20px;
+	height: 20px;
+	display: inline;
+	float: right;
+	margin-left: 20px;
+}
