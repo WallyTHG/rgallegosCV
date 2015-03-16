@@ -18,7 +18,7 @@
     src: url(../fonts/cv/Lato-Regular.ttf);
 }
 
-body, section, article, nav, footer, header, p{
+body, div, section, article, nav, footer, header, p{
 	font-family:Lato-Regular;
 	margin:0;
 	padding: 0;
@@ -54,6 +54,19 @@ hr{
 	margin-right: auto;
 	box-shadow: 00px 00px 50px 2px #999;
 
+}
+
+.infoContainer .btnDownload{
+	display: inline;
+	float: right;
+	overflow: hidden;
+	margin-right: 50px;
+	margin-top: 35px;
+	font-family: Lato-Bold;
+}
+
+.infoContainer .btnDownload span{
+	margin-right: 10px;
 }
 
 .firstInfo, .secondInfo{
@@ -182,3 +195,31 @@ hr{
 	float: right;
 	margin-left: 20px;
 }
+
+.idiomas{
+	margin-top: -20px;
+}
+
+.idiomas p{
+	font-style:italic;
+	 color:#74b3bc
+}
+
+@media (max-width: 1200px){
+	.container {
+  width: 1170px;
+}
+}
+
+@media (max-width: 992px){
+	.container {
+  width: 970px;
+}
+}
+
+@media (max-width: 768px){
+	.container {
+  width: 750px;
+}
+}
+

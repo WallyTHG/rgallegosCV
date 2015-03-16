@@ -67,6 +67,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
 	
 }
 
+
 .navbar.animate{
 	-webkit-animation: slideInDown 1s 0s ease;
 	animation: slideInDown 1s 0s ease;	
@@ -333,18 +334,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, nav, sectio
     transform: translate3d( 0px, 105%, 0px ) rotateX( -90deg );
 }
 
-/*
-.escLogo{
-	background-image:url('../images/BG_LeftEsc.png');
-	background-size: 100% 100%;
-
-
-}
-
-.expLogo{
-	background-image:url('../images/BG_RightEsc.png');
-	background-size: 100% 100%;
-}*/
 
 /* Portafolio */
 
