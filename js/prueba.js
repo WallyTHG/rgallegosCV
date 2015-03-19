@@ -80,7 +80,7 @@ $(document).ready(function(){
 
 	$(".JScpp").mouseenter(function(){
 		setTimeout( function(){$('.ch-item').addClass("animate");},200 );
-		$('.ch-info').html("<br><h3>C# / C++</h3>");
+		$('.ch-info').html("<br><h3>C#</h3>");
 		//$('.javaData').text('C# / C++');
 		//$('#javaPar').text('POO');
 		$('.ch-info').css("background","rgba(127,140,141, 0.8)");
