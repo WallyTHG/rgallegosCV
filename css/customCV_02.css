@@ -130,7 +130,7 @@ hr{
 
 }
 
-.secondInfo .secondRow a{
+.secondInfo .secondRow .escName{
 	
 	margin-top: 0;
 	font-family: Lato-Regular;
@@ -203,6 +203,30 @@ hr{
 .idiomas p{
 	font-style:italic;
 	 color:#74b3bc
+}
+
+.fxphd{
+
+}
+
+.lista{
+	font-family:Lato-Regular;
+	padding-top: 15px;
+	font-size: 20px;
+	color:black;
+}
+
+
+.elemento{
+	padding:5px;
+}
+
+.fxLink {
+	margin-top: 0;
+	font-family: Lato-Regular;
+	font-size: 20px;
+	text-decoration: none;
+	color:#25a7ac;
 }
 
 @media (max-width: 1200px){
